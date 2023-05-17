@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akash sharma</h1>
 <h3 align="center">Student at Vellore Institute of Technology, Bhopal🌟</h3>
 
-<img align="right" alt="coding" width="400" src="![image](https://github.com/Akash-sharma01/Akash-sharma01/assets/132706137/04af25ab-2f3a-4971-854e-8f430e98739f)">
+<img align="right" alt="coding" width="400" src="![image](https://github.com/Akash-sharma01/Akash-sharma01/assets/132706137/36998d43-f763-4574-8cc5-8fa1e22ed39d)">
 
 - 💬 Ask me about **Python,SQL,Power BI,Tableau,Data Analytics**
 
