@@ -2,7 +2,7 @@
 <h3 align="center">Student at Vellore Institute of Technology, Bhopal🌟</h3>
 
 
-<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrLQO311Ay9UrZYGleTDkd1fBvMsKTQnbCsA&usqp=CAU">
+<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrLQO311Ay9UrZYGleTDkd1fBvMsKTQnbCsA&usqp=CAU.gif">
 
 
 
