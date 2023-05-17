@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Akash sharma</h1>
+
 <h3 align="center">Student at Vellore Institute of Technology, Bhopal🌟</h3>
 
 
-<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrLQO311Ay9UrZYGleTDkd1fBvMsKTQnbCsA&usqp=CAU.gif">
+<img align="right" alt="coding" width="500" src="https://raw.githubusercontent.com/Cryptobyte/Cryptobyte/master/images/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif">
 
 
 
