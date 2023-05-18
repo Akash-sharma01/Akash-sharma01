@@ -1,3 +1,5 @@
+![video](https://github.com/Akash-sharma01/Akash-sharma01/blob/main/Developer.mp4)
+
 <h1 align="center">Hi 👋, I'm Akash sharma</h1> 
 
 <h3 align="center">Student at Vellore Institute of Technology, Bhopal🌟</h3>
