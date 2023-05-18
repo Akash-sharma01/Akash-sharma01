@@ -9,8 +9,6 @@
 <img align="right" alt="coding" width="500" src="https://raw.githubusercontent.com/Cryptobyte/Cryptobyte/master/images/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif">
 
 
-
-
 - 💬 Ask me about **Python,SQL,Power BI,Tableau,Data Analytics**
 
 - 📫 How to reach me **akaashsharma2020@gmail.com**
