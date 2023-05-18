@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Akash sharma</h1>
+<h1 align="center">Hi 👋, I'm Akash sharma</h1> 
 
 <h3 align="center">Student at Vellore Institute of Technology, Bhopal🌟</h3>
 
