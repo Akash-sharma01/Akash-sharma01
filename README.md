@@ -1,6 +1,5 @@
-![logo](https://github.com/Akash-sharma01/Akash-sharma01/blob/main/Developer.mp4)
 
-
+<img src="https://github.com/Akash-sharma01/Akash-sharma01/blob/main/Developer.gif" width=100% alt="Banner Image">
 <h1 align="center">Hi 👋, I'm Akash sharma</h1> 
 
 <h3 align="center">Student at Vellore Institute of Technology, Bhopal🌟</h3>
